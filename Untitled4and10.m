@@ -1,0 +1,5 @@
+a=magic(6)
+sum(a,2)
+sum(a)
+diag(a)
+sum(diag(a))
